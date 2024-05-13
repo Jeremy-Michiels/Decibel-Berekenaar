@@ -1,0 +1,22 @@
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\Nieuwe map.exe
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\Nieuwe map.deps.json
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\Nieuwe map.runtimeconfig.json
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\Nieuwe map.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\Nieuwe map.pdb
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.csproj.AssemblyReference.cache
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.GeneratedMSBuildEditorConfig.editorconfig
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.AssemblyInfoInputs.cache
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.AssemblyInfo.cs
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.csproj.CoreCompileInputs.cache
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.dll
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\refint\Nieuwe map.dll
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.pdb
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.genruntimeconfig.cache
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\ref\Nieuwe map.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.Asio.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.Core.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.Midi.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.Wasapi.dll
+D:\ID 2024\Nieuwe map\bin\Debug\net6.0\NAudio.WinMM.dll
+D:\ID 2024\Nieuwe map\obj\Debug\net6.0\Nieuwe map.csproj.CopyComplete
