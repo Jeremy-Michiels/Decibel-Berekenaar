@@ -1,2 +1,0 @@
-Dagmax:70
-nachtMax:50
